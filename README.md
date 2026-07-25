@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
+</p>
 # Hi 👋 I'm Chirayu Mishra
 
 🚀 Associate Product Manager @ Skillizee
