@@ -60,6 +60,12 @@ Fun Fact:
 
 [![Chirayu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chirayumishra24&theme=tokyo-night)](https://github.com/chirayumishra24)
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chirayumishra24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
 ## 🔥 Contribution Streak
 
 <p align="center">
