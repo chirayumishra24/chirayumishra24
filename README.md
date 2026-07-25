@@ -56,6 +56,9 @@ Fun Fact:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirayumishra24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+## 📈 Contribution Graph
+
+[![Chirayu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chirayumishra24&theme=tokyo-night)](https://github.com/chirayumishra24)
 
 ## 🔥 Contribution Streak
 
