@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Chirayu Mishra
 
-<!--
-**chirayumishra24/chirayumishra24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Associate Product Manager @ Skillizee
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionate about AI and EdTech
+
+---
+
+## Currently Working On
+
+- SAT Platform
+- AI Career Guidance
+- Certificate Automation
+
+---
+
+## Tech Stack
+
+React • Node.js • Firebase • MongoDB • Python • Express
+
+---
+
+## Connect with Me
+
+- LinkedIn
+- Email
+- Portfolio
